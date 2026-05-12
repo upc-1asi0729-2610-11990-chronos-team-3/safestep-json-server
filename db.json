@@ -2665,42 +2665,6 @@
         "status": "Bloqueada",
         "instructions": "Mant?n una racha semanal completa y reclama el bono final.",
         "unlockRequirement": "Racha de 7 dias consecutivos"
-      },
-      {
-        "id": "weekly-5",
-        "title": "Mejora precision promedio a 85%",
-        "cadence": "Semanal",
-        "progress": 84,
-        "goal": 85,
-        "rewardXp": 520,
-        "rewardCoins": 190,
-        "status": "Disponible",
-        "instructions": "Revisa tres productos sugeridos por tus errores recientes.",
-        "unlockRequirement": "Tener errores registrados en estadisticas"
-      },
-      {
-        "id": "weekly-6",
-        "title": "Completa una simulacion avanzada",
-        "cadence": "Semanal",
-        "progress": 0,
-        "goal": 1,
-        "rewardXp": 560,
-        "rewardCoins": 200,
-        "status": "Bloqueada",
-        "instructions": "Canjea un cupon con SafeCoins acumuladas por entrenamiento.",
-        "unlockRequirement": "Tener 500 SafeCoins disponibles"
-      },
-      {
-        "id": "weekly-7",
-        "title": "Canjea o guarda 500 SafeCoins",
-        "cadence": "Semanal",
-        "progress": 320,
-        "goal": 500,
-        "rewardXp": 360,
-        "rewardCoins": 140,
-        "status": "Bloqueada",
-        "instructions": "Alcanza el top 3 del ranking semanal de entrenamiento.",
-        "unlockRequirement": "Nivel 12 y mas de 10500 XP semanal"
       }
     ],
     "badges": [
@@ -2783,70 +2747,6 @@
         "unlocked": false,
         "description": "Completa primeros auxilios en ninos.",
         "unlockRequirement": "Cumplir el reto asociado a esta insignia."
-      },
-      {
-        "id": "bdg-fire",
-        "name": "Respuesta a quemaduras",
-        "rarity": "Comun",
-        "unlocked": true,
-        "description": "Completaste atencion inicial de quemaduras.",
-        "unlockRequirement": "Cumplir el reto asociado a esta insignia."
-      },
-      {
-        "id": "bdg-trauma",
-        "name": "Trauma esencial",
-        "rarity": "Rara",
-        "unlocked": false,
-        "description": "Practica fracturas y accidentes.",
-        "unlockRequirement": "Cumplir el reto asociado a esta insignia."
-      },
-      {
-        "id": "bdg-leader",
-        "name": "Top 10 semanal",
-        "rarity": "Epica",
-        "unlocked": true,
-        "description": "Entraste al top 10 del ranking.",
-        "unlockRequirement": "Cumplir el reto asociado a esta insignia."
-      },
-      {
-        "id": "bdg-mentor",
-        "name": "Mentor comunitario",
-        "rarity": "Legendaria",
-        "unlocked": false,
-        "description": "Comparte logros y ayuda a otros.",
-        "unlockRequirement": "Cumplir el reto asociado a esta insignia."
-      },
-      {
-        "id": "bdg-fast",
-        "name": "Respuesta rapida",
-        "rarity": "Rara",
-        "unlocked": true,
-        "description": "Tomaste decisiones correctas rapidamente.",
-        "unlockRequirement": "Cumplir el reto asociado a esta insignia."
-      },
-      {
-        "id": "bdg-toxic",
-        "name": "Alerta toxica",
-        "rarity": "Comun",
-        "unlocked": false,
-        "description": "Completa intoxicaciones en el hogar.",
-        "unlockRequirement": "Cumplir el reto asociado a esta insignia."
-      },
-      {
-        "id": "bdg-heat",
-        "name": "Control de calor",
-        "rarity": "Comun",
-        "unlocked": false,
-        "description": "Completa golpe de calor.",
-        "unlockRequirement": "Cumplir el reto asociado a esta insignia."
-      },
-      {
-        "id": "bdg-master",
-        "name": "Maestria SafeStep",
-        "rarity": "Legendaria",
-        "unlocked": false,
-        "description": "Completa todos los tipos de emergencia.",
-        "unlockRequirement": "Cumplir el reto asociado a esta insignia."
       }
     ],
     "leaderboard": [
@@ -2897,78 +2797,6 @@
         "name": "Luis Herrera",
         "xp": 8510,
         "streak": 23
-      },
-      {
-        "rank": 9,
-        "name": "Mariana Flores",
-        "xp": 8120,
-        "streak": 22
-      },
-      {
-        "rank": 10,
-        "name": "Renzo Molina",
-        "xp": 7730,
-        "streak": 21
-      },
-      {
-        "rank": 11,
-        "name": "Lucia Prado",
-        "xp": 7340,
-        "streak": 20
-      },
-      {
-        "rank": 12,
-        "name": "Bruno Salas",
-        "xp": 6950,
-        "streak": 19
-      },
-      {
-        "rank": 13,
-        "name": "Elena Ruiz",
-        "xp": 6560,
-        "streak": 18
-      },
-      {
-        "rank": 14,
-        "name": "Nicolas Vera",
-        "xp": 6170,
-        "streak": 17
-      },
-      {
-        "rank": 15,
-        "name": "Paula Diaz",
-        "xp": 5780,
-        "streak": 16
-      },
-      {
-        "rank": 16,
-        "name": "Adrian Leon",
-        "xp": 5390,
-        "streak": 15
-      },
-      {
-        "rank": 17,
-        "name": "Daniela Rios",
-        "xp": 5000,
-        "streak": 14
-      },
-      {
-        "rank": 18,
-        "name": "Gabriel Torres",
-        "xp": 4610,
-        "streak": 13
-      },
-      {
-        "rank": 19,
-        "name": "Ximena Campos",
-        "xp": 4220,
-        "streak": 12
-      },
-      {
-        "rank": 20,
-        "name": "Fernando Gil",
-        "xp": 3830,
-        "streak": 11
       }
     ],
     "coinTransactions": [
@@ -3552,82 +3380,6 @@
           "Sismos",
           "Accidentes"
         ]
-      },
-      {
-        "id": "bolsa-frio-instantaneo",
-        "name": "Bolsa de frio instantaneo",
-        "category": "Trauma",
-        "type": "Producto",
-        "price": 10.9,
-        "rating": 4.3,
-        "stock": 83,
-        "imageUrl": "/assets/images/productosTienda/bolso-frio-instantaneo.jpg",
-        "tags": [
-          "Golpes",
-          "Deporte"
-        ],
-        "description": "Compresa fria de activacion rapida para golpes, esguinces y dolor inicial.",
-        "recommendedFor": [
-          "Fracturas",
-          "Esguinces"
-        ]
-      },
-      {
-        "id": "tijera-trauma",
-        "name": "Tijera de trauma",
-        "category": "Trauma",
-        "type": "Producto",
-        "price": 26.9,
-        "rating": 4.7,
-        "stock": 41,
-        "imageUrl": "/assets/images/productosTienda/tijera-trauma.jpg",
-        "tags": [
-          "Corte",
-          "Rescate"
-        ],
-        "description": "Tijera para cortar ropa o vendajes durante una evaluacion segura.",
-        "recommendedFor": [
-          "Trauma",
-          "Hemorragias"
-        ]
-      },
-      {
-        "id": "pinza-esteril",
-        "name": "Pinza esteril de curacion",
-        "category": "Curacion",
-        "type": "Producto",
-        "price": 7.9,
-        "rating": 4,
-        "stock": 70,
-        "imageUrl": "/assets/images/productosTienda/pinza-esteril.jpg",
-        "tags": [
-          "Curacion",
-          "Esteril"
-        ],
-        "description": "Pinza para manipular gasas y material esteril sin contaminacion.",
-        "recommendedFor": [
-          "Heridas"
-        ]
-      },
-      {
-        "id": "manual-primeros-auxilios",
-        "name": "Manual rapido de primeros auxilios",
-        "category": "Educacion",
-        "type": "Producto",
-        "price": 21.9,
-        "rating": 4.6,
-        "stock": 52,
-        "imageUrl": "/assets/images/productosTienda/manual-primeros-auxilios.jpg",
-        "tags": [
-          "Guia",
-          "Aprendizaje"
-        ],
-        "description": "Guia impresa con protocolos basicos para consulta rapida.",
-        "recommendedFor": [
-          "RCP",
-          "Quemaduras",
-          "Sismos"
-        ]
       }
     ],
     "coupons": [
@@ -3672,36 +3424,6 @@
         "title": "15% en control de sangrado",
         "costCoins": 650,
         "discount": "15%"
-      },
-      {
-        "id": "cpn-educacion",
-        "title": "Manual gratis con compra",
-        "costCoins": 700,
-        "discount": "Manual"
-      },
-      {
-        "id": "cpn-bio",
-        "title": "10% en bioseguridad",
-        "costCoins": 380,
-        "discount": "10%"
-      },
-      {
-        "id": "cpn-familia",
-        "title": "S/ 20 menos en kits familiares",
-        "costCoins": 900,
-        "discount": "S/20"
-      },
-      {
-        "id": "cpn-auto",
-        "title": "12% en botiquin para auto",
-        "costCoins": 540,
-        "discount": "12%"
-      },
-      {
-        "id": "cpn-premium",
-        "title": "25% en compra mayor a S/ 200",
-        "costCoins": 1200,
-        "discount": "25%"
       }
     ],
     "orders": [
@@ -3799,39 +3521,6 @@
           "radio-manivela"
         ],
         "createdAt": "2026-05-07"
-      },
-      {
-        "id": "ord-008",
-        "userId": "usr-008",
-        "total": 239.5,
-        "status": "Cancelado",
-        "items": [
-          "gasas-esteriles",
-          "torniquete-tactico"
-        ],
-        "createdAt": "2026-05-08"
-      },
-      {
-        "id": "ord-009",
-        "userId": "usr-009",
-        "total": 263,
-        "status": "Entregado",
-        "items": [
-          "termometro-digital",
-          "vendaje-compresivo"
-        ],
-        "createdAt": "2026-05-01"
-      },
-      {
-        "id": "ord-010",
-        "userId": "usr-001",
-        "total": 286.5,
-        "status": "En camino",
-        "items": [
-          "manta-termica",
-          "suero-fisiologico"
-        ],
-        "createdAt": "2026-05-02"
       }
     ],
     "categories": [
@@ -3879,31 +3568,6 @@
         "id": "cat-9",
         "name": "Hemorragias",
         "productCount": 3
-      },
-      {
-        "id": "cat-10",
-        "name": "Trauma",
-        "productCount": 4
-      },
-      {
-        "id": "cat-11",
-        "name": "Medicamentos OTC",
-        "productCount": 2
-      },
-      {
-        "id": "cat-12",
-        "name": "Senalizacion",
-        "productCount": 1
-      },
-      {
-        "id": "cat-13",
-        "name": "Curacion",
-        "productCount": 1
-      },
-      {
-        "id": "cat-14",
-        "name": "Educacion",
-        "productCount": 1
       }
     ],
     "reviews": [
@@ -4138,94 +3802,6 @@
         "rating": 4.4,
         "comment": "Producto util para preparacion y practica SafeStep #29.",
         "createdAt": "2026-04-01"
-      },
-      {
-        "id": "rev-30",
-        "productId": "tijera-trauma",
-        "userName": "Renzo Molina",
-        "rating": 4.5,
-        "comment": "Producto util para preparacion y practica SafeStep #30.",
-        "createdAt": "2026-04-02"
-      },
-      {
-        "id": "rev-31",
-        "productId": "pinza-esteril",
-        "userName": "Lucia Prado",
-        "rating": 4,
-        "comment": "Producto util para preparacion y practica SafeStep #31.",
-        "createdAt": "2026-04-03"
-      },
-      {
-        "id": "rev-32",
-        "productId": "manual-primeros-auxilios",
-        "userName": "Bruno Salas",
-        "rating": 4.1,
-        "comment": "Producto util para preparacion y practica SafeStep #32.",
-        "createdAt": "2026-04-04"
-      },
-      {
-        "id": "rev-33",
-        "productId": "kit-hogar",
-        "userName": "Elena Ruiz",
-        "rating": 4.2,
-        "comment": "Producto util para preparacion y practica SafeStep #33.",
-        "createdAt": "2026-04-05"
-      },
-      {
-        "id": "rev-34",
-        "productId": "mochila-emergencia",
-        "userName": "Nicolas Vera",
-        "rating": 4.3,
-        "comment": "Producto util para preparacion y practica SafeStep #34.",
-        "createdAt": "2026-04-06"
-      },
-      {
-        "id": "rev-35",
-        "productId": "mascarilla-rcp",
-        "userName": "Paula Diaz",
-        "rating": 4.4,
-        "comment": "Producto util para preparacion y practica SafeStep #35.",
-        "createdAt": "2026-04-07"
-      },
-      {
-        "id": "rev-36",
-        "productId": "apposito-quemaduras",
-        "userName": "Adrian Leon",
-        "rating": 4.5,
-        "comment": "Producto util para preparacion y practica SafeStep #36.",
-        "createdAt": "2026-04-08"
-      },
-      {
-        "id": "rev-37",
-        "productId": "vendas-elasticas",
-        "userName": "Daniela Rios",
-        "rating": 4,
-        "comment": "Producto util para preparacion y practica SafeStep #37.",
-        "createdAt": "2026-04-09"
-      },
-      {
-        "id": "rev-38",
-        "productId": "guantes-nitrilo",
-        "userName": "Gabriel Torres",
-        "rating": 4.1,
-        "comment": "Producto util para preparacion y practica SafeStep #38.",
-        "createdAt": "2026-04-10"
-      },
-      {
-        "id": "rev-39",
-        "productId": "antiseptico-spray",
-        "userName": "Ximena Campos",
-        "rating": 4.2,
-        "comment": "Producto util para preparacion y practica SafeStep #39.",
-        "createdAt": "2026-04-11"
-      },
-      {
-        "id": "rev-40",
-        "productId": "gasas-esteriles",
-        "userName": "Fernando Gil",
-        "rating": 4.3,
-        "comment": "Producto util para preparacion y practica SafeStep #40.",
-        "createdAt": "2026-04-12"
       }
     ],
     "cartItems": [
@@ -4869,22 +4445,6 @@
       {
         "skill": "Bioseguridad",
         "progress": 67
-      },
-      {
-        "skill": "Trauma",
-        "progress": 62
-      },
-      {
-        "skill": "Pediatria",
-        "progress": 57
-      },
-      {
-        "skill": "Intoxicacion",
-        "progress": 52
-      },
-      {
-        "skill": "Comunicacion de emergencia",
-        "progress": 48
       }
     ],
     "recommendations": [
@@ -4923,30 +4483,6 @@
         "title": "Bioseguridad inicial",
         "action": "Practicar modulo relacionado con bioseguridad inicial.",
         "priority": "Media"
-      },
-      {
-        "id": "rec-7",
-        "title": "Inmovilizacion de fracturas",
-        "action": "Practicar modulo relacionado con inmovilizacion de fracturas.",
-        "priority": "Media"
-      },
-      {
-        "id": "rec-8",
-        "title": "Reconocimiento de shock",
-        "action": "Practicar modulo relacionado con reconocimiento de shock.",
-        "priority": "Baja"
-      },
-      {
-        "id": "rec-9",
-        "title": "Manejo de convulsiones",
-        "action": "Practicar modulo relacionado con manejo de convulsiones.",
-        "priority": "Baja"
-      },
-      {
-        "id": "rec-10",
-        "title": "Rehidratacion segura",
-        "action": "Practicar modulo relacionado con rehidratacion segura.",
-        "priority": "Baja"
       }
     ],
     "performanceByDifficulty": [
@@ -4959,11 +4495,6 @@
         "difficulty": "Intermedio",
         "completed": 16,
         "accuracy": 84
-      },
-      {
-        "difficulty": "Avanzado",
-        "completed": 8,
-        "accuracy": 76
       }
     ],
     "progressVisuals": [
@@ -5016,21 +4547,6 @@
         "commonErrors": [],
         "averageResponseTime": null,
         "simulationId": "quemaduras"
-      },
-      {
-        "id": 4,
-        "userId": 2,
-        "scenarioId": 2,
-        "scenarioName": "Atragantamiento en Adulto",
-        "completionPercentage": 88,
-        "bestScore": 88,
-        "averageScore": 88,
-        "totalAttempts": 1,
-        "statusColor": "green",
-        "lastPracticedAt": "2025-05-03T09:15:00Z",
-        "commonErrors": [],
-        "averageResponseTime": 10,
-        "simulationId": "sismo"
       }
     ],
     "evaluationResults": [
@@ -5141,26 +4657,6 @@
         "timeElapsed": 600,
         "errors": [],
         "scenarioSlug": "atragantamiento"
-      },
-      {
-        "id": 4,
-        "userId": 1,
-        "scenarioId": 1,
-        "mode": "evaluation",
-        "startedAt": "2025-05-04T16:00:00Z",
-        "completedAt": "2025-05-04T16:11:00Z",
-        "score": 82,
-        "totalSteps": 6,
-        "correctSteps": 5,
-        "timeElapsed": 660,
-        "errors": [
-          {
-            "stepNumber": 2,
-            "error": "No evaluó conciencia correctamente",
-            "severity": "warning"
-          }
-        ],
-        "scenarioSlug": "rcp-basico"
       }
     ]
   }
