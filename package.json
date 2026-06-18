@@ -4,7 +4,7 @@
   "description": "Falso backend para simulación de datos en SafeStep",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port $PORT"
+    "start": "json-server --watch db.json --host 0.0.0.0 --port $PORT"
   },
   "dependencies": {
     "json-server": "^0.17.4"
